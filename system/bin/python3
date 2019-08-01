@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+export SHELL=sh
+export PYTHONHOME=/system/python3.4.2
+exec /system/python3.4.2/bin/python3.4 "$@"
+
