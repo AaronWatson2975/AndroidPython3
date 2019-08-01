@@ -1,2 +1,2 @@
 # AndroidPython3
-This is everything you need to run Python files on Android
+This is everything you need to run Python on Android
